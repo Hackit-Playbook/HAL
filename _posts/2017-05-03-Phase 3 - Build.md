@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Phase 1 - Discover
+title: Phase 3 - Build
 ---
 
 The discover phase enables you to form a team around a clear understanding of a problem. 

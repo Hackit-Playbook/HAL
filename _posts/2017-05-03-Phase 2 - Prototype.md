@@ -1,15 +1,20 @@
 ---
 layout: post
-title: Phase 1 - Discover
+title: Phase 2 - Prototype
 ---
 
-The discover phase enables you to form a team around a clear understanding of a problem. 
+The purpose of this phase is to understand how you can meet the user needs you identified in discovery and tackle the biggest risks to the project.
 
-This is important because work often starts because someone believes they’ve found a potential solution and just wants it to be implemented. Sometimes that solution turns out to partially solve the problem, particularly when that problem is complex. If the implementation takes time or costs money the work may have made that problem worse. 
+ 
 
-Therefore, the discover phase is useful if a service is considering purchasing a solution ‘off the shelf’ but not if a piece of technology has already been procured.
+This is important because sometimes projects move the more complex parts to the end of a project - such as integration between systems or discovering whether users will adopt a new technology. Prototyping enables us to understand how to deliver a solution and whether it will work through real-life testing before we commit further resources to the solution. 
+
+ 
+
+A prototyping phase can be valuable to support the introduction of an ‘off the shelf’ solution, particularly if it has been purchased as ‘software as a service’.
 
 
+<h2>Team and skills</h2>
 During a prototyping phase, it is particularly important to work with a team that can share the understanding of what users need and continue to support the project in the next phase of work. 
 
  
@@ -46,27 +51,17 @@ A larger product may benefit from the input of a
 
 <h2>Governance</h2>
 
-Our manifesto says it’s better to take small, quick steps than to embark on long journeys. So you can spend up to two weeks working to develop a project without any formal governance, provided this isn’t at the expense of other work. 
+The Product Owner will make the day-to-day decisions in response to the insights gathered from users. The key moments for decision-making will be in the activities to estimate the size of the user stories, the prioritisation and the sprint planning workshops. 
 
  
 
-To formally initiate a project you will need the agreement of the ICT steering group of the relevant directorate. This needs to clearly express what you’re exploring, what you’d like to achieve (in terms of costs and benefits) and the initial resources required to validate this, so that the Steering Group can make an informed decision. The Business Relationship Manager can get space on the agenda. 
+Beyond the sprint team, the Product Owner will need to explain these decisions to the project sponsor, head of service and possible the Cabinet Member - depending on the prominence of the work. Getting this input in the prototyping phase helps avoid later changes of direction in subsequent phases of work. 
 
  
 
-Your pitch to the steering group should be proportionate to the resources you're looking to invest in the discovery and the scale of the challenge you're tackling. 
+At the end of the phase, the team will need to commission an assessment of the work against the Service Standard, consistent with previous phases. This should involve the key members of the ICT Change Advisory Board so that they are sighted on the scope of the project and prepared for any change requests when the project later delivers working solutions into the production environment. 
 
- 
 
-At the end of the phase, should you wish to continue with the project, you will need to book an assessment of the work against the Local Government Digital Service Standard. You should look to ask two assessors to hear a presentation capturing what you’ve learnt and how you will move to the next stage. These may be colleagues within ICT but should not be associated with the project. 
-
- 
-
-For larger projects (eg over £100,000 or affecting more than 5,000 residents) you should seek the input of an external assessor. Contact LocalGovDigital  to identify a digital/ICT leader in another local authority that could volunteer their time to conduct the assessment. 
-
- 
-
-Assessments are published on this website. 
 
 
 <h2>Tools</h2>
