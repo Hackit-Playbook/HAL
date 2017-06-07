@@ -1,28 +1,6 @@
 ---
 layout: page
-title: HackIt service design tactics manual
+title: Hackney Agile Lifecycle
 permalink: /about/
 ---
-This tactics manual helps you take a problem and start to solve it, using the principles of [service design](https://en.wikipedia.org/wiki/Service_design).
-
-WE’ve used all of the tactics before, most of which have been borrowed from organisations like 
-
-<h3>Why</h3>
-
-When faced with a problem, we have traditionally asked individuals to develop a proposal for a project to fix the problem. It can take time before work begins to really understand the problem, and we define the solution without certainty about whether it will work. 
-
-This manual is rooted in an alternative approach: working in small teams to examine a problem from multiple perspectives, developing multiple hypotheses which are then tested by developing rapid ‘prototypes’. These prototypes help us find the right solution, reducing the risk that our initial ideas won’t succeed. 
-
-The benefits of this approach are:
-
-<ul><li><b>Working faster</b> - developing key elements of a solution in days</li>
-<li><b>Reducing risk,</b> checking an approach at low cost and learning about what works before making a larger investment</li>
-<li><b>Improve outcomes,</b> particularly where user behaviour is critical, by defining how a successful approach needs to work</li></ul>
-
-<h3>How</h3>
-
-You can also use any one of the tactics to help a team work together to understand a problem, develop hypotheses to solve it and then test solutions rapidly with users. We have used each of these tactics on previous service design projects, and collated them in a single manual. You’ll want to use different tactics at different times on a project in order to help build a team and ensure it works efficiently to tackle complex problems.
-
-You can combine most of these tactics to run a 5-day mini project, known as a ‘Google Sprint’. This is a device used by Google Ventures to deliver rapid improvements to a product or service.
-
-Whilst these tactics are focused on delivering solutions that have an element of technology, they have been used successfully for many different forms of product and service development in government and the private sector. 
+<span class="c4">About this methodology</span></h2><p class="c3"><span class="c1">This methodology is rooted in the &lsquo;double-diamond&rsquo; - a way of thinking developed by the International Design Organisation and used by global organisations to tackle problems and challenges. </span></p><p class="c2"><span class="c1"></span></p><p class="c3"><span class="c1">It is particularly useful for:</span></p><ul class="c5 lst-kix_crcdgq8mwjrs-0 start"><li class="c0"><span class="c1">Long-term challenges where there have been multiple efforts to &lsquo;fix&rsquo; the problem</span></li><li class="c0"><span class="c1">Problems where the solution requires changing people&rsquo;s behaviour </span></li><li class="c0"><span class="c1">Reducing the risk of a technical project where the solution hasn&rsquo;t been commonly used</span></li></ul><p class="c2"><span class="c1"></span></p><p class="c3"><span class="c1">The method breaks into four phases to provide stakeholders the opportunity to stop work or change direction. However, it can be used to guide work differently, depending on the challenge. For example, a &lsquo;Google Sprint&rsquo; will use many of these methods in just a week, whilst many technology companies don&rsquo;t have a &lsquo;discovery&rsquo; phase but prefer learning through testing and evaluating live services. </span></p><p class="c2"><span class="c1"></span></p><p class="c3"><span class="c1">This method has been set out to explain how to develop a digital service, but a successful digital service relies on a business process that is efficient and simple, a consistent approach across other channels (phone, paper, face to face), and clear rules that could be automated. All of these issues will be identified during the research and testing and will need to be tackled through the prototyping, building and improving stages if the &lsquo;end to end&rsquo; service is to truly meet user needs. </span></p><p class="c2"><span class="c1"></span></p><p class="c3"><span>All digital services in Hackney need to be assessed against the Local Government Digital Service Standard before being live for users. Follow whichever parts of the methodology help you successfully reach the Standard. </span><span class="c1">This is consistent with our manifesto, particularly: People first, More doing, less planning. </span></p><p class="c2"><span class="c1"></span></p><p class="c3"><span>The </span><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://docs.google.com/a/hackney.gov.uk/document/d/1LeKN1fqaUBaTyY8m4Y_M_NEn-TAJms0gKiUGWYtxpZU/edit?usp%3Dsharing&amp;sa=D&amp;ust=1496573525641000&amp;usg=AFQjCNH_ag1Cq7VKl-rUk9oKHmA-T-ns-Q">pre-project workshop and diagnosis tool</a></span><span>&nbsp;</span><span class="c1">guides you towards the appropriate methodology for your project. </span></p><p class="c2"><span class="c1"></span></p><p class="c3"><span class="c1">The manual can be followed at each step of the way and the project can still fail if it is not used in the right way. For example, if key stakeholders believe that there is an existing solution and it just needs to be implemented, then few of these techniques will have any value. </span></p><p class="c2"><span class="c1"></span></p><p class="c3"><span>The manual will continue to be improved in response to user feedback, so make sure you blog about your work at </span><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://blogs.hackney.gov.uk/HackIT&amp;sa=D&amp;ust=1496573525643000&amp;usg=AFQjCNEXWcyQ98T5Dv-GHjyGpykQOrWW6A">https://blogs.hackney.gov.uk/HackIT</a></span>
