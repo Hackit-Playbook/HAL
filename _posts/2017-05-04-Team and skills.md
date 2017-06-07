@@ -22,4 +22,3 @@ You may also find it useful to include:
 <li>Frontline staff (someone who deals with customers on a daily basis)</li>
 </ul>
 Discover projects work best when everyone has clear areas of responsibility but the team talks regularly to share what they learn. It's important that team members don't simply read what others have produced but are responsible for ensuring they've understood it and probed it from their own perspective and professional skillset. 
-<span>See: </span><span><a  href="https://www.google.com/url?q=https://docs.google.com/a/hackney.gov.uk/document/d/1GP5R00bBdxKTEcdOS-8Yk-AkwcxCG8uQHEC39RKiYz0/edit?usp%3Dsharing&amp;sa=D&amp;ust=1496573525656000&amp;usg=AFQjCNH9jxr0RxeBPO-l728j4Y3zIwUsnA">Roles in an Agile team</a></span></p></td></tr></tbody></table><span>
