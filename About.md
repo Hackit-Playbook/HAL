@@ -1,23 +1,20 @@
 ---
 layout: page
-title: Hackney Agile Lifecycle
+title: About this methodology
 permalink: /about/
 ---
-<h3>About this methodology</h3>
+
 This methodology is rooted in the ‘double-diamond’ - a way of thinking developed by the International Design Organisation and used by global organisations to tackle problems and challenges. 
 
  
 
 It is particularly useful for:
 
-•Long-term challenges where there have been multiple efforts to ‘fix’ the problem
-
-
-•Problems where the solution requires changing people’s behaviour 
-
-
-•Reducing the risk of a technical project where the solution hasn’t been commonly used
-
+<ul>
+<li>Long-term challenges where there have been multiple efforts to ‘fix’ the problem</li>
+<li>Problems where the solution requires changing people’s behaviour </li>
+<li>Reducing the risk of a technical project where the solution hasn’t been commonly used</li>
+</ul>
 
  
 
