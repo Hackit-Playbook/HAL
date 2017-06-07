@@ -1,18 +1,25 @@
-You can accelerate your understanding by interviewing just four different experts. Try to interview them as a group to develop a shared understanding. If that’s not possible, then make sure the interviewer presents the findings to the group.
+---
+layout: post
+title:  Team and skills        
+---
+You may not be able to assemble a large team at the start of the project. However, you should try to build a core group that can take you through the whole project lifecycle. 
 
-Interview the project sponsor. Understand:
-<ul><li>What will make this project a success?</li><li>What’s our unique advantage or opportunity?</li><li>What’s the biggest risk?</li></ul>
+Even if your team is one or two people, they will need to play the following roles:
 
-Understand the customer:
-<ul><li>What are they doing currently to solve this problem?</li><li>Where are the key pain points?</li></ul>
+<ul>
+<li>A project sponsor</li>
+<li>A Product Owner</li>
+<li>A developer</li>
+<li>A user researcher</li>
+</ul>
 
-Understand the subject matter expert:
-<ul><li>What are the constraints of legislation or policy?</li><li>What are the opportunities and challenges of existing technology solutions, service design and regulatory arrangements?</li></ul>
+You may also find it useful to include:
 
-Understand previous efforts:
-<ul><li>What have we already tried?</li><li>To what extent has it worked and what can we understand from previous attempts?</li><li>Why does the problem remain?</li></ul>
-
-There are key rules to sharing the outputs:
-<ul><li>Iterate your existing work, making sure the interviews add colour and detail to your other work - eg amend the map</li><li>Make the findings visible - eg key statistics on the wall, key quotes</li><li>Share it across the team - present your findings</li></ul>
-
-For inspiration
+<ul>
+<li>A business analyst</li>
+<li>A project manager</li>
+<li>A subject matter expert</li>
+<li>Frontline staff (someone who deals with customers on a daily basis)</li>
+</ul>
+Discover projects work best when everyone has clear areas of responsibility but the team talks regularly to share what they learn. It's important that team members don't simply read what others have produced but are responsible for ensuring they've understood it and probed it from their own perspective and professional skillset. 
+<span>See: </span><span><a  href="https://www.google.com/url?q=https://docs.google.com/a/hackney.gov.uk/document/d/1GP5R00bBdxKTEcdOS-8Yk-AkwcxCG8uQHEC39RKiYz0/edit?usp%3Dsharing&amp;sa=D&amp;ust=1496573525656000&amp;usg=AFQjCNH9jxr0RxeBPO-l728j4Y3zIwUsnA">Roles in an Agile team</a></span></p></td></tr></tbody></table><span>
