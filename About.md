@@ -30,11 +30,11 @@ All digital services in Hackney need to be assessed against the Local Government
 
  
 
-The pre-project workshop and diagnosis tool guides you towards the appropriate methodology for your project. 
+The <a href="https://blogs.hackney.gov.uk/HackIT">pre-project workshop and diagnosis tool</a> guides you towards the appropriate methodology for your project. 
 
  
 
 The manual can be followed at each step of the way and the project can still fail if it is not used in the right way. For example, if key stakeholders believe that there is an existing solution and it just needs to be implemented, then few of these techniques will have any value. 
 
  
-The manual will continue to be improved in response to user feedback, so make sure you blog about your work at https://blogs.hackney.gov.uk/HackIT 
+The manual will continue to be improved in response to user feedback, so make sure you blog about your work at <a href="https://blogs.hackney.gov.uk/HackIT">HackIT </a>
