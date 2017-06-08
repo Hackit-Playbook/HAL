@@ -17,11 +17,7 @@ A prototyping phase can be valuable to support the introduction of an ‘off the
 <h2>Team and skills</h2>
 During a prototyping phase, it is particularly important to work with a team that can share the understanding of what users need and continue to support the project in the next phase of work. 
 
- 
-
 You would normally expect to be working in a team of 3 and potentially a team as large as 8. Much larger than this and the team may be too big to be cohesive. The team will contain:
-
-
 
 <ul>
 <li>A project sponsor</li>
@@ -33,10 +29,7 @@ You would normally expect to be working in a team of 3 and potentially a team as
 <li>A subject matter expert</li>
 </ul>
 
-
 You will also need to draw on the skills of:
-
-
 
 <ul>
 <li>a Technical Architect for advice on the hosting and infrastructure - including security</li>
@@ -51,6 +44,7 @@ A larger product may benefit from the input of a
 
 <h2>Governance</h2>
 
+
 The Product Owner will make the day-to-day decisions in response to the insights gathered from users. The key moments for decision-making will be in the activities to estimate the size of the user stories, the prioritisation and the sprint planning workshops. 
 
  
@@ -59,43 +53,48 @@ Beyond the sprint team, the Product Owner will need to explain these decisions t
 
  
 
-At the end of the phase, the team will need to commission an assessment of the work against the Service Standard, consistent with previous phases. This should involve the key members of the ICT Change Advisory Board so that they are sighted on the scope of the project and prepared for any change requests when the project later delivers working solutions into the production environment. 
+At the end of the phase, the team will need to commission an assessment of the work against the Service Standard, consistent with previous phases. This should involve the key members of the ICT Change Advisory Board so that they are sighted on the scope of the project and prepared for any change requests when the project later delivers working solutions into the production environment.
 
 
 
 
 <h2>Tools</h2>
 
+The key tools during a prototyping phase will be:
+<ul><li><span>User stories</span></li><li ><span>Agile planning tools (eg Kanban boards physical or virtual)</span></li><li ><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399&amp;sa=D&amp;ust=1496573525709000&amp;usg=AFQjCNEuhmAtmAlrzFuOUoXRCMJqMDksVg">Wireframes</a></span></li><li ><span>Sketches</span></li><li ><span>Front-end prototyping software (eg proto.io, Invision, Balsamiq, Heroku)</span></li><li ><span>Show &amp; Tells</span></li><li ><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://docs.google.com/a/hackney.gov.uk/document/d/1mnf3ITrrOOLQlyjmWdRbFUrZC3jPtf9DHUO47nKVS_Q/edit?usp%3Dsharing&amp;sa=D&amp;ust=1496573525711000&amp;usg=AFQjCNHN9ohcb6Oo1XyCqjXRUjNNadM_SA">Sprint Retrospectives</a></span></li><li ><span>Sprint Planning</span></li><li ><span class="c15"><a class="c6" href="https://www.google.com/url?q=http://www.aha.io/software/product-roadmap-template?utm_source%3Dgoogle%26utm_medium%3Dadwords%26gclid%3DCjwKEAjwjPXIBRDhwICRg-DbgHISJADP6QXp2PG7_xV1lUw-v0BUMOIWjNF834RO0qfMb1CZhiLJyhoCcO3w_wcB&amp;sa=D&amp;ust=1496573525712000&amp;usg=AFQjCNG_XUzR-J49a0Hq3xqyywb-tTf-HQ">Product roadmap</a></span></li></ul>
 
-There are a number of research techniques and workshop-based tools that can help you during a discover phase:
-<ul><li><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://hackit-playbook.github.io/Tactic-10-Developing-a-vision/&amp;sa=D&amp;ust=1496573525665000&amp;usg=AFQjCNGvWZpEQvZQ_6X7s-_jdNIpyQ0WgQ">Vision statement</a></span></li><li><span class="c1">Stakeholder mapping</span></li><li><span class="c1">User interviews</span></li><li><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://hackit-playbook.github.io/Tactic-6-Understanding-your-users/&amp;sa=D&amp;ust=1496573525666000&amp;usg=AFQjCNGHCaGxTBvBbUEoSHQ9NbN3pyuNtw">Personas</a></span></li><li><span class="c1">User stories &nbsp;or &lsquo;Epics&rsquo;</span></li><li><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://hackit-playbook.github.io/Tactic-8-How-Might-We/&amp;sa=D&amp;ust=1496573525668000&amp;usg=AFQjCNFcsjSrr7JAmT5IGwfs75MDOV0hXw">&lsquo;How Might We&rsquo;</a></span></li><li><span class="c1">5 Whys</span></li><li><span>Customer journey maps (eg. </span><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://www.smaply.com/&amp;sa=D&amp;ust=1496573525669000&amp;usg=AFQjCNHUpFSuVV0ymaLiSDwVvCFyuuGA8Q">Smaply</a></span><span class="c1">)</span></li><li><span class="c1">Business process maps (eg Vision)</span></li><li><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://www.gov.uk/service-manual/measuring-success/measuring-cost-per-transaction&amp;sa=D&amp;ust=1496573525670000&amp;usg=AFQjCNF1SeFEobPPFwR6nTRuIE9PGwkC6w">Cost per transaction calculation</a></span></li><li><span class="c1">Show &amp; Tells</span></li><li><span class="c1">Digital take-up and skills research</span></li><li><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://docs.google.com/a/hackney.gov.uk/document/d/1Um2gGOu8rCXNEJ5Sm6x1P1sNmBYnb6KAP4_AyBTcJIk/edit?usp%3Dsharing&amp;sa=D&amp;ust=1496573525672000&amp;usg=AFQjCNEb98FjIMkRQs6S3HJ4KxVCi-l2KA">Project Initiation Document </a></span><span class="c1">template </span></li></ul><p class="c2"><span class="c1"></span></p>
+You may also want to check back to some of your key outputs from the discovery phase. For example, it can be useful to check back to the personas and have a group discussion about whether the prototype would meet the needs of each of the people in the personas (which is why it's useful to give them a name and face, so the conversation isn't abstract). 
 
 <h2>Timing</h2>
-<p class="c3"><span class="c1">A discovery phase will usually last 6-8 weeks. If you&#39;re exploring a single service (rather than a whole area) it will be between 15 and 30 days in total. </span></p><p class="c2"><span class="c1"></span></p><p class="c3"><span class="c1">The things that can take most time to put in place are:</span></p><ul class="c5 lst-kix_8iyjyfhzyh41-0 start"><li><span class="c1">Interviews with users </span></li><li><span class="c1">Exploring the business process and understanding any regulatory or legislative constraints </span></li></ul>
+
+A prototyping phase should take between 6 and 12 weeks, depending on the technical complexity of the service. A project involving simple web-based interfaces or off-the-shelf software should take nearer 6 whilst a 12 week phase enables the team to test the development of APIs. 
+
+The phase could be designed to tackle the biggest risks to the project first, which can then inform the overall length of the phase. 
+
+<table class="c20"><tbody><tr class="c8"><td class="c13" colspan="1" rowspan="1"><h2 class="c7 c17" id="h.o54uos7b67v9"><span class="c4">For inspiration</span></h2><ul class="c5 lst-kix_cbfkd6g9ec93-0 start"><li class="c14 c10"><span>How to </span><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://designnotes.blog.gov.uk/2016/10/03/how-to-prototype-in-the-browser/&amp;sa=D&amp;ust=1496573525718000&amp;usg=AFQjCNG3fRvesWZCogz9YYmjedNcvYMlfQ">prototype in your web browser</a></span></li><li class="c10 c14"><span>A </span><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://gdsdata.blog.gov.uk/all-service-assessments-and-self-certification/pay-penalty-online-service-assessment-2/&amp;sa=D&amp;ust=1496573525719000&amp;usg=AFQjCNGMI6GP7BOtkNm-KsS42WLn6EjmKg">Service Standard assessment</a></span></li><li class="c14 c10"><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://speakerdeck.com/stephengill/prototyping-for-dummies&amp;sa=D&amp;ust=1496573525720000&amp;usg=AFQjCNGxWXfXQACwAPm6t6-4EfCp39Pg5g">Introduction to prototyping</a></span></li><li class="c14 c10"><span>How </span><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://medium.com/ideo-stories/chatbots-ultimate-prototyping-tool-e4e2831967f3&amp;sa=D&amp;ust=1496573525721000&amp;usg=AFQjCNEnSANXPYXMuKjhCBEEqcfzTXyPpA">chatbots can help you prototype</a></span></li></ul><p class="c10 c17 c23"><span class="c1"></span></p></td></tr></tbody></table>
 
 <h2>Outcomes</h2>
-<p class="c3"><span class="c1">A successful discovery phase will:</span></p><ul ><li><span class="c1">Identify all of the types of user, including those who may not be able to use a digital service </span></li><li><span class="c1">Understand the strengths and weaknesses of their experience today and develop hypotheses about what an ideal service would do</span></li><li><span class="c1">Identify the key business challenges and the type of improvements that are possible (cost savings, customer satisfaction improvements)</span></li><li><span class="c1">Identify key areas of focus for the next phase of work (eg a part of the customer journey that is causing particular pain, or a part of the business process that could be easily automated)</span></li><li><span class="c1">Align the stakeholders around the definition of the problem and get agreement to take the next step</span></li></ul>
-<table class="c20"><tbody><tr class="c8"><td class="c13" colspan="1" rowspan="1"><h2><span class="c4">For inspiration</span></h2><ul class="c5 lst-kix_44drzpn48e5m-0 start"><li><span>An example </span><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://docs.google.com/document/d/1FdtNmsRQ9PGz86j6ZdMFjfALkSRL1yGAoRp3p1zsuh8/edit?usp%3Dsharing&amp;sa=D&amp;ust=1496573525680000&amp;usg=AFQjCNHEugAD5YQKSnwoVh-z1eWaIZ8xeQ">project initiation document</a></span></li><li><span>An</span><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://drive.google.com/open?id%3D0B0tr28lhzP30T3NJZHVtblBOeUE&amp;sa=D&amp;ust=1496573525681000&amp;usg=AFQjCNFbBhAOBvcz0eBgSFkAdTI3UfMngw">&nbsp;assessment of a successful discovery phase</a></span></li><li><span>An example </span><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://drive.google.com/file/d/0B8w7wqfsnOGgbnF5TWF6UTFpTHc/view?usp%3Dsharing&amp;sa=D&amp;ust=1496573525682000&amp;usg=AFQjCNECf34v2XhdMzDHDQA_lyq8kGtXpQ">show and tell presentation</a></span></li><li><span>An example </span><span class="c15"><a class="c6" href="https://www.google.com/url?q=https://docs.google.com/document/d/1V6NsacubhEdVUlfwcf7fyX4z-e3t9ybQ3lsAVyziF_0/edit&amp;sa=D&amp;ust=1496573525683000&amp;usg=AFQjCNEeX9Kd66zXnCK7maHfJXgkNKviJg">high-level business case</a></span></li></ul></td></tr></tbody></table>
+At the end of the prototyping phase the team will have:
+
+<ul>
+<li>Tested the prototype with users to validate or redefine the user stories</li>
+<li>Identified the biggest risks to the project and reduced these through its work</li>
+<li>Identified which parts of the business process need to change, and how</li>
+<li>Defined the most important user stories</li>
+<li>An understanding of the relative complexity of building the key user stories and the importance of each to the project</li>
+<li>Developed KPIs for the measurement of the service in the next phase and a clearer sense</li>
+<li>The solution architecture, hosting and security of the service</li>
+<li>A clear budget and business case for the remaining phases of work</li>
+<li>An understanding of the open standards and how these will be adhered to, existing solutions any common government platforms and whether or not they’ll be used</li>
+</ul>
 
 <h2>End of phase checklist</h2>
 We have:
 <ul>
-<li>A team that has a shared understanding of the problem and how we might solve it</li>
-
-
-<li>Identified all of the types of users and stakeholders associated with the project</li>
-
-
-<li>Interviewed at least 10 users to learn about their experience, skills and needs from an ideal solution</li>
-
-
-<li>Mapped the customer journey and understood the key pain points</li>
-
-
-<li>Mapped the business process and identified key constraints</li>
-
-
-<li>Demonstrated our work to a wider group of stakeholders </li>
-
-
-<li>Hypotheses for the types of improvement we may be able to deliver</li>
+<li>Evidence of what our users need, and we can justify key features and design decisions based on this evidence</li>
+<li>A team with a shared understanding of what needs to be done in the next phase reporting to an empowered Product Owner with sufficient time to make in-flight decisions</li>
+<li>A solution architecture, including the plan for hosting, infrastructure and application support and data security</li>
+<li>A take-up plan and plan for what to do if the service is unavailable</li>
+<li>Realistic targets for the performance of the service</li>
+<li>Developed a clear product roadmap which has the support of senior stakeholders</li>
+</ul>
